@@ -1,0 +1,22 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# production
+/dist
+config/*
+
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+\.vs/
+uniq.js
+generate.js
+*.txt
+.cache
+
+public/font-cop/
